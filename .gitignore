@@ -9,6 +9,11 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
+wp-login.php
+wp-trackback.php
+wp-settings.php
+wp-load.php
+wp-signup.php
 
 /.htaccess
 /license.txt
